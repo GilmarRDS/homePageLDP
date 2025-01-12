@@ -1,0 +1,127 @@
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.navbar {
+    background-color: #28a745;
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #e0e0e0 !important;
+}
+
+.header {
+    background-color: #28a745;
+    color: white;
+    padding: 60px 0;
+}
+
+.footer {
+    background-color: #28a745;
+    color: white;
+    padding: 20px 0;
+}
+
+.section-title {
+    color: #28a745;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.navbar {
+    background-color: #28a745;
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #e0e0e0 !important;
+}
+
+.header {
+    background-color: #28a745;
+    color: white;
+    padding: 60px 0;
+}
+
+.card-header {
+    background-color: #28a745;
+    color: white;
+}
+
+.footer {
+    background-color: #28a745;
+    color: white;
+    padding: 20px 0;
+}
+
+.card-body {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-outline-success {
+    color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: white;
+}
+
+.section-title {
+    color: #28a745;
+    font-weight: bold;
+}
+
+
+/* Estilos para o nome da Lei */
+.law-name {
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Efeito de hover */
+.law-name:hover {
+    color: #28a745; /* Cor verde */
+}
+
+
+
+/* Cor de fundo personalizada para o cabeçalho */
+table th {
+    background-color: #f8f9fa; /* Cor de fundo suave */
+    color: #495057; /* Cor do texto do cabeçalho */
+}
+
+/* Estilos para o nome da Lei */
+.law-name {
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Efeito de hover */
+.law-name:hover {
+    color: #28a745; /* Cor verde */
+}
+
