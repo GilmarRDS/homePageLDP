@@ -125,3 +125,27 @@ table th {
     color: #28a745; /* Cor verde */
 }
 
+
+
+
+/* Customiza a barra de rolagem */
+::-webkit-scrollbar {
+    width: 8px; /* Largura da barra de rolagem */
+}
+
+/* Customiza o fundo da barra de rolagem */
+::-webkit-scrollbar-track {
+    background-color: #ffffff; /* Cor de fundo branca */
+}
+
+/* Customiza a parte do "polegar" da barra (parte que você arrasta) */
+::-webkit-scrollbar-thumb {
+    background-color: #28a745; /* Cor verde */
+    border-radius: 10px; /* Arredondar as bordas do polegar */
+}
+
+/* Quando o "polegar" é hover (passa o mouse sobre) */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #218838; /* Cor verde mais escura ao passar o mouse */
+}
+
