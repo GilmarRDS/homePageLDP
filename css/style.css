@@ -103,6 +103,7 @@ body {
 /* Efeito de hover */
 .law-name:hover {
     color: #28a745; /* Cor verde */
+
 }
 
 
@@ -119,13 +120,6 @@ table th {
     text-decoration: none;
     color: inherit;
 }
-
-/* Efeito de hover */
-.law-name:hover {
-    color: #28a745; /* Cor verde */
-}
-
-
 
 
 /* Customiza a barra de rolagem */
